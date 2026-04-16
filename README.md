@@ -30,3 +30,6 @@ This project uses the Credit Card Fraud Detection dataset from Kaggle.
 
 ## Key Insights
 The dataset is highly imbalanced, so AUC-ROC and Recall are the right metrics. Logistic Regression slightly outperformed Random Forest. Top predictive features are V14, V10, V12, V4, V17 - anonymized PCA components that strongly separate fraud
+Files
+creditcard.ipynb - Complete analysis 
+creditcard.py - Python script version
